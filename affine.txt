@@ -1,0 +1,81 @@
+Epoch:==============================================================1
+Train NN
+validation starts ===========
+Character error rate: 91.4557248364 . Word accuracy: 0.0 .
+Epoch:==============================================================2
+Train NN
+validation starts ===========
+Character error rate: 84.10475358618 . Word accuracy: 8.3327642857 .
+Epoch:==============================================================3
+Train NN
+validation starts ===========
+Character error rate: 72.3937436342 . Word accuracy: 19.37322225714 .
+Epoch:==============================================================4
+Train NN
+validation starts ===========
+Character error rate: 63.113204157 . Word accuracy: 20.3373326571 .
+Epoch:==============================================================5
+Train NN
+validation starts ===========
+Character error rate: 42.3340605003 . Word accuracy: 32.1363245714 .
+Epoch:==============================================================6
+Train NN
+validation starts ===========
+Character error rate: 32.4120418463 . Word accuracy: 36.3031428271 .
+Epoch:==============================================================7
+Train NN
+validation starts ===========
+Character error rate: 31.3283761287 . Word accuracy: 39.4894854143 .
+Epoch:==============================================================8
+Train NN
+validation starts ===========
+Character error rate: 21.263325732 . Word accuracy: 48.81067162857 .
+Epoch:==============================================================9
+Train NN
+validation starts ===========
+Character error rate: 21.0509301985 . Word accuracy: 52.6654 .
+Epoch:==============================================================10
+Train NN
+validation starts ===========
+Character error rate: 24.3825053221 . Word accuracy: 50.374435714 .
+Epoch:==============================================================11
+Train NN
+validation starts ===========
+Character error rate: 24.3405923135 . Word accuracy: 51.3852857143 .
+Epoch:==============================================================12
+Train NN
+validation starts ===========
+Character error rate: 21.2236449004 . Word accuracy: 55.3031458571 .
+Epoch:==============================================================13
+Train NN
+validation starts ===========
+Character error rate: 21.7967464814 . Word accuracy: 55.5892857143 .
+Epoch:==============================================================14
+Train NN
+validation starts ===========
+Character error rate: 23.1436210163 . Word accuracy: 51.225 .
+Epoch:==============================================================15
+Train NN
+validation starts ===========
+Character error rate: 21.651247633 . Word accuracy: 57.2625571529 .
+Epoch:==============================================================16
+Train NN
+validation starts ===========
+Character error rate: 19.0521782445 . Word accuracy: 59.3632857143 .
+Epoch:==============================================================17
+Train NN
+validation starts ===========
+Character error rate: 21.3078047889 . Word accuracy: 55.6964285714 .
+Epoch:==============================================================18
+Train NN
+validation starts ===========
+Character error rate: 19.3566075672 . Word accuracy: 58.9642857143 .
+Epoch:==============================================================19
+Train NN
+validation starts ===========
+Character error rate: 18.2582263585 . Word accuracy: 61.5282711429 .
+Epoch:==============================================================20
+Train NN
+validation starts ===========
+Character error rate: 19.3362745409 . Word accuracy: 61.7273571429 .
+
